@@ -13,3 +13,5 @@
 ### HTML, CSS and etc
 
 [Гид по flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
+
+[HTML DOM Events (w3schools](https://www.w3schools.com/jsref/dom_obj_event.asp)
