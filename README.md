@@ -4,6 +4,8 @@
 
 [Замыкания в JS](https://habr.com/post/38642/) 
 
+[Объекты в JS](https://habr.com/company/ruvds/blog/420615/)
+
 [Работа с объектами в JavaScript: теория и практика](https://habr.com/post/48542/)
 
 [Пузырьковая сортировка и модификации с гифками](https://habr.com/post/204600/)
