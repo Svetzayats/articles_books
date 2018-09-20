@@ -1,6 +1,6 @@
 # articles_books
 
-### JavaSctipt 
+### JavaScript 
 
 [Замыкания в JS](https://habr.com/post/38642/) 
 
@@ -11,6 +11,10 @@
 [Пузырьковая сортировка и модификации с гифками](https://habr.com/post/204600/)
 
 [Разные виды сортировок: большая статья с примерами](https://habr.com/post/335920/) //разобрать
+
+[Узнать event key code](http://keycode.info/)
+
+[Обработка событий на eloquentjavascript.net](http://eloquentjavascript.net/15_event.html#c_KkYEaH5/cU)
 
 ### HTML, CSS and etc
 
