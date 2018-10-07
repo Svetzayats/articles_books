@@ -18,6 +18,8 @@
 
 [Array.from() на MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from) //разобрать полифилл
 
+[Разбор this на примерах](https://habr.com/post/149516/)
+
 ### HTML, CSS and etc
 
 [Гид по flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
