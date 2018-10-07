@@ -16,6 +16,8 @@
 
 [Обработка событий на eloquentjavascript.net](http://eloquentjavascript.net/15_event.html#c_KkYEaH5/cU)
 
+[Array.from() на MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from) //разобрать полифилл
+
 ### HTML, CSS and etc
 
 [Гид по flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
