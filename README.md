@@ -20,7 +20,7 @@
 
 [Разбор this на примерах](https://habr.com/post/149516/)
 
-[Publish-subscribe pattern - асинхронный код](https://itnext.io/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44) //дочитать 
+[Publish-subscribe pattern - асинхронный код](https://itnext.io/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44) 
 
 ### HTML, CSS and etc
 
