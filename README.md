@@ -22,6 +22,8 @@
 
 [Publish-subscribe pattern - асинхронный код](https://itnext.io/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44) 
 
+[Design Patterns in JS (простые примеры)](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
+
 ### HTML, CSS and etc
 
 [Гид по flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
