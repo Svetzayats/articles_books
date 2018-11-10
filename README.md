@@ -22,6 +22,8 @@
 
 [Publish-subscribe pattern - асинхронный код](https://itnext.io/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44) 
 
+[Jake Archibald: все что я знаю про Event Loop в JavaScript (2018)](https://www.youtube.com/watch?v=j4_9BZezSUA) //пересмотреть! 
+
 [Design Patterns in JS (простые примеры)](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 
 ### HTML, CSS and etc
@@ -31,3 +33,5 @@
 [HTML DOM Events (w3schools)](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
 [Шпаргалка по Flex](http://yoksel.github.io/flex-cheatsheet/)
+
+
