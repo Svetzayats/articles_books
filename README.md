@@ -36,4 +36,6 @@
 
 [Документация по Emmet](https://docs.emmet.io/cheat-sheet/)
 
+### GIT
 
+[Как склеивать коммиты и как автоматизировать](https://htmlacademy.ru/blog/27-how-to-squash-commits-and-why-it-is-needed)
