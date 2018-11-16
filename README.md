@@ -43,4 +43,5 @@
 ### Работа браузера
 
 [Рендеринг WEB-страницы: что об этом должен знать front-end разработчик(habr)](https://habr.com/post/224187/)
+
 [Принципы работы современных веб-браузеров: учебник](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
