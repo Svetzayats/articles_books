@@ -39,3 +39,7 @@
 ### GIT
 
 [Как склеивать коммиты и как автоматизировать](https://htmlacademy.ru/blog/27-how-to-squash-commits-and-why-it-is-needed)
+
+### Работа браузера
+
+[Рендеринг WEB-страницы: что об этом должен знать front-end разработчик(habr)](https://habr.com/post/224187/)
