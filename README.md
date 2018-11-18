@@ -30,6 +30,8 @@
 
 [Гид по flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
 
+[Немного тонкостей Flexbox из спецификации в веселой форме (habr)](https://habr.com/post/329820/)
+
 [HTML DOM Events (w3schools)](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
 [Шпаргалка по Flex](http://yoksel.github.io/flex-cheatsheet/)
