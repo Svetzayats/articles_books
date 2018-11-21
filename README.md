@@ -26,6 +26,8 @@
 
 [Design Patterns in JS (простые примеры)](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 
+[У нас проблемы с промисами - Нолан Лоунсен (перевод на habr)](https://habr.com/company/mailru/blog/269465/) 
+
 ### HTML, CSS and etc
 
 [Гид по flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
