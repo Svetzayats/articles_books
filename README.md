@@ -38,6 +38,8 @@
 
 [Шпаргалка по Flex](http://yoksel.github.io/flex-cheatsheet/)
 
+[Еще одна шпаргалка по Flexbox (habr)](https://habr.com/post/313938/)
+
 [Документация по Emmet](https://docs.emmet.io/cheat-sheet/)
 
 ### GIT
