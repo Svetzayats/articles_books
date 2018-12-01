@@ -32,6 +32,8 @@
 
 [Документация по create-react-app](https://facebook.github.io/create-react-app/)
 
+[Документация styled-components](https://www.styled-components.com/docs/)
+
 ### HTML, CSS and etc
 
 [Гид по flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
