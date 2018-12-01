@@ -28,6 +28,10 @@
 
 [У нас проблемы с промисами - Нолан Лоунсен (перевод на habr)](https://habr.com/company/mailru/blog/269465/) 
 
+### React 
+
+[Документация по create-react-app](https://facebook.github.io/create-react-app/)
+
 ### HTML, CSS and etc
 
 [Гид по flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
