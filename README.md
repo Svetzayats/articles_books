@@ -26,7 +26,9 @@
 
 [Design Patterns in JS (простые примеры)](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 
-[У нас проблемы с промисами - Нолан Лоунсен (перевод на habr)](https://habr.com/company/mailru/blog/269465/) 
+[У нас проблемы с промисами - Нолан Лоунсен (перевод на habr)](https://habr.com/company/mailru/blog/269465/)
+
+[Коды ответов HTTP](https://httpstatuses.com/)
 
 ### React 
 
