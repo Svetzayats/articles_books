@@ -30,6 +30,8 @@
 
 [Коды ответов HTTP](https://httpstatuses.com/)
 
+[Регулярные выражения для начинающих](https://tproger.ru/articles/regexp-for-beginners/)
+
 ### React 
 
 [Документация по create-react-app](https://facebook.github.io/create-react-app/)
