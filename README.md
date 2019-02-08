@@ -68,6 +68,10 @@
 
 [Принципы работы современных веб-браузеров: учебник](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
 
+### Среда разработки и вообще
+
+[Современный JS для динозавтра: webpack, babel и зачем вот это всё](https://habr.com/ru/company/mailru/blog/340922/)
+
 ### Юмор 
 
 [Немного бредового про сложение типов в JS](https://www.destroyallsoftware.com/talks/wat)
