@@ -32,6 +32,8 @@
 
 [Регулярные выражения для начинающих](https://tproger.ru/articles/regexp-for-beginners/)
 
+[Async/await в циклах](https://medium.com/webbdev/js-8dfa059cae97)
+
 ### React 
 
 [Документация по create-react-app](https://facebook.github.io/create-react-app/)
