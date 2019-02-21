@@ -34,6 +34,8 @@
 
 [Async/await в циклах](https://medium.com/webbdev/js-8dfa059cae97)
 
+[Связанный список](https://humanwhocodes.com/blog/2019/01/computer-science-in-javascript-linked-list/)
+
 ### React 
 
 [Документация по create-react-app](https://facebook.github.io/create-react-app/)
