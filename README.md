@@ -76,6 +76,10 @@
 
 [Современный JS для динозавтра: webpack, babel и зачем вот это всё](https://habr.com/ru/company/mailru/blog/340922/)
 
+### Тесты 
+
+[Лекция Яндекса, посмотреть инструменты](https://habr.com/ru/company/yandex/blog/346186/)
+
 ### Юмор 
 
 [Немного бредового про сложение типов в JS](https://www.destroyallsoftware.com/talks/wat)
