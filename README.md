@@ -80,6 +80,8 @@
 
 [Лекция Яндекса, посмотреть инструменты](https://habr.com/ru/company/yandex/blog/346186/)
 
+[Юнит-тестирование для чайников: часть 1, обзорная](https://habr.com/ru/post/169381/)
+
 ### Юмор 
 
 [Немного бредового про сложение типов в JS](https://www.destroyallsoftware.com/talks/wat)
