@@ -36,6 +36,8 @@
 
 [Связанный список](https://humanwhocodes.com/blog/2019/01/computer-science-in-javascript-linked-list/)
 
+[Защита от дурака (регулярки для валидации)](http://htmlbook.ru/samhtml5/formy/zashchita-ot-duraka)
+
 ### React 
 
 [Документация по create-react-app](https://facebook.github.io/create-react-app/)
