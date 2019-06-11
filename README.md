@@ -38,6 +38,8 @@
 
 [Защита от дурака (регулярки для валидации)](http://htmlbook.ru/samhtml5/formy/zashchita-ot-duraka)
 
+[Кратко ES6](https://habr.com/ru/post/305900/)
+
 ### React 
 
 [Документация по create-react-app](https://facebook.github.io/create-react-app/)
