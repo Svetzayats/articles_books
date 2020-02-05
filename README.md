@@ -71,6 +71,8 @@
 
 [Верстка media object (как в facebook комменты, например)](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
 
+[Внутренние размеры в CSS (max-content, min-content, fit-content) + примеры использования](https://ishadeed.com/article/intrinsic-sizing-in-css/)
+
 ### GIT
 
 [Как склеивать коммиты и как автоматизировать](https://htmlacademy.ru/blog/27-how-to-squash-commits-and-why-it-is-needed)
