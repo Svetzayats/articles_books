@@ -2,6 +2,8 @@
 
 ### JavaScript 
 
+[Как читать спецификацию, часть первая](https://v8.dev/blog/understanding-ecmascript-part-1)
+
 [Замыкания в JS](https://habr.com/post/38642/) 
 
 [Объекты в JS](https://habr.com/company/ruvds/blog/420615/)
