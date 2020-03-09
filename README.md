@@ -46,6 +46,10 @@
 
 [Typing objects in TypeScript](https://2ality.com/2020/01/typing-objects-typescript.html)
 
+### Алгоритмы и структуры данных
+
+[Структуры данных для самых маленьких](https://habr.com/ru/post/310794/)
+
 ### React 
 
 [Документация по create-react-app](https://facebook.github.io/create-react-app/)
