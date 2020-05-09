@@ -83,6 +83,8 @@
 
 [Внутренние размеры в CSS (max-content, min-content, fit-content) + примеры использования](https://ishadeed.com/article/intrinsic-sizing-in-css/)
 
+[min(), max(), clamp() in CSS](https://ishadeed.com/article/css-min-max-clamp/)
+
 ### GIT
 
 [Как склеивать коммиты и как автоматизировать](https://htmlacademy.ru/blog/27-how-to-squash-commits-and-why-it-is-needed)
