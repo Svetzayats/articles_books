@@ -112,3 +112,7 @@
 ### Юмор 
 
 [Немного бредового про сложение типов в JS](https://www.destroyallsoftware.com/talks/wat)
+
+### Сеть и другое
+
+[Как работает CDN](https://habr.com/ru/company/selectel/blog/463915/)
