@@ -50,6 +50,10 @@
 
 [Структуры данных для самых маленьких](https://habr.com/ru/post/310794/)
 
+### О фреймворках
+
+[Что нужно знать о популярных JS-фреймворках: история, плюсы, минусы](https://habr.com/ru/company/yandex_praktikum/blog/533702/)
+
 ### React 
 
 [Документация по create-react-app](https://facebook.github.io/create-react-app/)
