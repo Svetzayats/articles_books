@@ -105,6 +105,8 @@
 
 [Современный JS для динозавтра: webpack, babel и зачем вот это всё](https://habr.com/ru/company/mailru/blog/340922/)
 
+[Как влюбить в себя код-ревьюера. Рекомендации по оформлению кода на ревью](https://mtlynch.io/code-review-love/)
+
 ### Тесты 
 
 [Лекция Яндекса, посмотреть инструменты](https://habr.com/ru/company/yandex/blog/346186/)
