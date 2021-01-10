@@ -91,6 +91,8 @@
 
 [min(), max(), clamp() in CSS](https://ishadeed.com/article/css-min-max-clamp/)
 
+[CSS Grid minmax() + auto-fit и auto-fill в Grid](https://ishadeed.com/article/css-grid-minmax/)
+
 ### GIT
 
 [Как склеивать коммиты и как автоматизировать](https://htmlacademy.ru/blog/27-how-to-squash-commits-and-why-it-is-needed)
