@@ -46,6 +46,8 @@
 
 [Typing objects in TypeScript](https://2ality.com/2020/01/typing-objects-typescript.html)
 
+[Dynamic Static Typing In TypeScript](https://www.smashingmagazine.com/2021/01/dynamic-static-typing-typescript/)
+
 ### Алгоритмы и структуры данных
 
 [Структуры данных для самых маленьких](https://habr.com/ru/post/310794/)
