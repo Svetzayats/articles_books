@@ -42,6 +42,8 @@
 
 [Кратко ES6](https://habr.com/ru/post/305900/)
 
+[Подборка готовых регулярок по темам](https://rgxp.ru/)
+
 ### TypeScript
 
 [Typing objects in TypeScript](https://2ality.com/2020/01/typing-objects-typescript.html)
