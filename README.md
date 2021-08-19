@@ -54,6 +54,9 @@
 
 [Структуры данных для самых маленьких](https://habr.com/ru/post/310794/)
 
+### Паттерны
+[Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md#-strategy)
+
 ### О фреймворках
 
 [Что нужно знать о популярных JS-фреймворках: история, плюсы, минусы](https://habr.com/ru/company/yandex_praktikum/blog/533702/)
