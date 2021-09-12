@@ -50,6 +50,8 @@
 
 [Dynamic Static Typing In TypeScript](https://www.smashingmagazine.com/2021/01/dynamic-static-typing-typescript/)
 
+[Enum в TS: как работает, когда применять, подводные камни](https://nauchikus.gitlab.io/typescript-definitive-guide/book/contents/%D0%A2%D0%B8%D0%BF%D1%8B%20-%20%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%82%D0%B8%D0%BF%20Enum.html)
+
 ### Алгоритмы и структуры данных
 
 [Структуры данных для самых маленьких](https://habr.com/ru/post/310794/)
