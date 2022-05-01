@@ -130,6 +130,8 @@
 
 [Юнит-тестирование для чайников: часть 1, обзорная](https://habr.com/ru/post/169381/)
 
+[Best practicies](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
 ### Юмор 
 
 [Немного бредового про сложение типов в JS](https://www.destroyallsoftware.com/talks/wat)
