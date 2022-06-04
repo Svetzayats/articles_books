@@ -77,6 +77,8 @@
 
 [Условия в JSX](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/)
 
+[React project structure for scale: decomposition, layers and hierarchy](https://www.developerway.com/posts/react-project-structure)
+
 ### Redux 
 
 [Redux в реальной жизни: доклад со слайдами и комментами (не видео)](https://iamakulov.com/talks/redux-in-real-life/)
